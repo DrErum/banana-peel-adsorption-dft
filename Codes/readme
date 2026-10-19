@@ -1,0 +1,21 @@
+# Computational Code and Input Files
+
+This directory documents the computational workflow used in the brushite–banana-peel biocomposite adsorption project.
+
+## Software and Workflow
+
+- **Avogadro:** Molecular structure construction and inspection.
+- **xTB:** Preliminary geometry optimization and vibrational frequency calculations.
+- **ORCA:** Density functional theory calculations and electronic-structure analysis.
+- **VESTA:** Visualization of HOMO–LUMO distributions and molecular electrostatic potential maps.
+- **BIOVIA Discovery Studio:** Geometrical visualization of molecular structures and adsorption complexes.
+
+## Planned Contents
+
+- xTB input files and execution commands
+- ORCA input files (`.inp`)
+- Calculation output files and relevant extracted results
+- Scripts for analyzing energies and organizing results
+- Documentation of visualization procedures
+
+Only verified input files, commands, and scripts from the actual calculations will be included. Computational settings will be documented from the original files rather than reconstructed from memory.
